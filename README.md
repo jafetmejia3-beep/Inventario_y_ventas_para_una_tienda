@@ -10,3 +10,4 @@ El proyecto es relizar un inventario de ventas de varias tiendas
 > [!NOTE]
 > Información remarcada
 >agregado
+
